@@ -1,0 +1,12 @@
+{
+  "title":"Error is happed",
+  "priority":"low",
+  "severity":"high",
+  "stepsToReproduce":[
+    {"stepNumber":1,"description":"Do something"},
+    {"stepNumber":2,"description":"Do something"}
+    ]
+  "expectedResult":"Ok",
+  "actualresult":"NotOk",
+  "attachement":"filename"
+}
