@@ -1,0 +1,16 @@
+<title>Error is happed</title>
+<priority>low</priority>
+<severity>high</severity>
+<stepsToReproduce>
+	<step>
+		<id>1</id>
+		<description>something</description>
+	</step>
+	<step>
+		<id>2</id>
+		<description>something</description>
+	</step>
+</stepsToReproduce>
+<expectedResult>Ok</expectedResult>
+<actualresult>NotOk</actualresult>
+<attachement>filename</attachement>

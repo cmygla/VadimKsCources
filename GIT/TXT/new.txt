@@ -1,0 +1,5 @@
+name:"Kate",
+surname: "Kravchenko",
+age:34,
+pets:1,
+salary:"too much"
